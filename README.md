@@ -6,3 +6,5 @@ written in C using ncurses.
 W A S D  - up, left, down, right
 
 ESC - terminate
+
+![snake](resources/screenshot1.png)
